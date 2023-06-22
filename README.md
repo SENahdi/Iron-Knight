@@ -13,6 +13,12 @@ Iron Knight is a 2D side scrolling platformer game for PC. The player plays with
 **
 Set in the early 20th century, in a fictional universe in which magic is widely practiced, the story follows the journey of a mother and her child, Violet and Irwin. The latter was captured by a magical monster who was very strong for Violet to beat. So, Violet made a deal with the devil (known as the Owl) to use the magical stone to give her enough power to rescue her poor child. Furthermore, the Owl asked for one thing in return and that is Violet's body. So, her soul was attached to a suit of armor by the Owl, her body was taken away and her soul is left in the thick and seemingly impenetrable armor. Later, Violet kills the monster and saves her son, but her soul is stuck forever inside an inhuman armor. Irwin finds out what his mother has sacrificed to save him, and realizes that he will never feel her warmth ever again. Violet who wanted her baby back has now lost the chance of having one again. So, he swears an oath to kill the Owl and bring his mother’s body back. And here, begins the search for the Owl and the legendary magical stone.
 
+**flow chart**:
+
+![image](https://github.com/SENahdi/Iron-Knight/assets/124052654/98a03ab3-30c5-463c-982e-bdcb3bc9505c)
+
+
+
 **Game Mechanics: 
 **
 Space:
